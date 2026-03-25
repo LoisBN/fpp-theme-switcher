@@ -4,8 +4,11 @@ Build a Light/Dark/Ocean theme toggle using Zustand for global state. One store 
 
 ## Quick Start
 
+**1. Fork this repo** — Click the **Fork** button at the top right of this page.
+
+**2. Clone your fork:**
 ```bash
-git clone https://github.com/LoisBN/fpp-theme-switcher.git
+git clone https://github.com/YOUR-GITHUB-USERNAME/fpp-theme-switcher.git
 cd fpp-theme-switcher
 npm install
 npm run dev
